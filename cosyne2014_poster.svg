@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="cosyne2014_poster.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -22,12 +22,12 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="1940.1417"
-     inkscape:cy="1900.6978"
-     inkscape:document-units="px"
+     inkscape:cx="2666.5854"
+     inkscape:cy="2348.9284"
+     inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
@@ -35,7 +35,50 @@
      inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="97.142857,2234.2857"
+       id="guide3103" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4771.4286,3714.2857"
+       id="guide3105" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-2057.1429,3611.4286"
+       id="guide3107" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-1051.4286,97.142857"
+       id="guide3109" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="565.71429,2908.5714"
+       id="guide3159" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1684.9344,2725.7143"
+       id="guide3161" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="3228.4475,2428.4067"
+       id="guide3163" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1485.7143,331.42857"
+       id="guide3165" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-371.42857,2725.7143"
+       id="guide3213" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="3914.2857,2631.4286"
+       id="guide4075" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,5 +95,144 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,2637.6403)" />
+     transform="translate(0,2637.6403)">
+    <rect
+       style="fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1.83462322;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2990-0"
+       width="4845.6377"
+       height="3697.0659"
+       x="8.6097317"
+       y="-2636.1733" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.75785995;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2990-0-1"
+       width="4680"
+       height="3514.2856"
+       x="97.14286"
+       y="-2559.0688" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="450.28571"
+       y="-1667.6403"
+       id="text3167"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3169"
+         x="450.28571"
+         y="-1667.6403"
+         style="font-size:144px">Introduction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2586.7271"
+       y="-1675.3423"
+       id="text3167-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3169-6"
+         x="2586.7271"
+         y="-1675.3423"
+         style="font-size:144px">Analysis and Results</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:120px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2392.9028"
+       y="-2406.4976"
+       id="text3215"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3217"
+         x="2392.9028"
+         y="-2406.4976"
+         style="font-size:120px;font-weight:bold;text-align:center;text-anchor:middle">Characterizing Local Field Potential Synchrony</tspan><tspan
+         sodipodi:role="line"
+         x="2392.9028"
+         y="-2316.3025"
+         style="font-size:60px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3219">in the</tspan><tspan
+         sodipodi:role="line"
+         x="2392.9028"
+         y="-2181.4976"
+         style="font-size:120px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="tspan3221">Avian Auditory System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="925.42865"
+       y="-2029.3545"
+       id="text3223"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3225"
+         x="925.42865"
+         y="-2029.3545"
+         style="font-size:80px">Mike Schachter, Tyler Lee, Julie Elie*, Friedrich Sommer, Frederic Theunissen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="2378"
+       y="-1906.2118"
+       id="text3227"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3229"
+         x="2378"
+         y="-1906.2118"
+         style="font-size:60px">*Designed and performed the experiments</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="424.25836"
+       y="-604.21838"
+       id="text3167-96"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3169-67"
+         x="424.25836"
+         y="-604.21838"
+         style="font-size:144px">Experiments</tspan></text>
+    <g
+       id="g4043"
+       transform="translate(-10,0)">
+      <rect
+         y="-1577.6403"
+         x="1725.3779"
+         height="92.85714"
+         width="1481.969"
+         id="rect3273"
+         style="fill:#eb84cc;fill-opacity:1;stroke:#000000;stroke-width:1.9454428;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3227-9"
+         y="-1515.6589"
+         x="1861.1757"
+         style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:60px;font-style:normal;-inkscape-font-specification:Sans"
+           y="-1515.6589"
+           x="1861.1757"
+           id="tspan3229-2"
+           sodipodi:role="line">Regional Varibility in Stimulus Encoding</tspan></text>
+    </g>
+    <rect
+       style="fill:#eb84cc;fill-opacity:1;stroke:#000000;stroke-width:1.9454428;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3273-3"
+       width="1481.969"
+       height="92.85714"
+       x="3260.2856"
+       y="-1579.0688" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3490.0835"
+       y="-1517.0875"
+       id="text3227-9-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3229-2-9"
+         x="3490.0835"
+         y="-1517.0875"
+         style="font-size:60px;font-style:normal;-inkscape-font-specification:Sans">LFP Synchrony is Stimulus-Specific</tspan></text>
+  </g>
 </svg>
